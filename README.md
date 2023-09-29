@@ -1,5 +1,5 @@
 A simple JavaFx program that makes a postgres database available online (at the user's choice),
-through the use of a socket server.
+through the use of a socket server.(Concurrent access supported)
 
 
 
